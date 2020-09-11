@@ -36,7 +36,7 @@ function Form(props) {
                 <input
                 onChange={handleChange}
                 type='text'
-                name='memeberName'
+                name='memberName'
                 id=''
                 placeholder= 'First name Last name'
                 value={newMember.memberName} />
